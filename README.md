@@ -12,7 +12,7 @@ Please see the .pdf file at the top of the directory to begin. We encourage cita
 
 ### Th sky around FU Orionis
 
-![FU Ori](figures/image.png)
+![FU Ori](image.png)
 Source: IRSA + NASA/JPL-Caltech Spitzer Space Telescope
 
 
